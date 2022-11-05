@@ -1,4 +1,4 @@
-# Android Application Development course - Naresh IT Technologies
+# Android Application Development course
 ### Introduction to Android
 - [click here](https://docs.google.com/presentation/d/1U0gU4AJi5bqC8q0zij6Hx085mFag3SK48XLe9RvSsu8/edit?usp=sharing) for presentation
 
